@@ -98,12 +98,8 @@ build-lite.bat DEBUG    & rem debug build
 
 Tested models and firmware
 
-已验证的机型：
-
-| Model / 机型 |
-| --- | --- |
-| MECHREVO Yaoshi 16 Ultra (X6AR_Mechrevo-Yaoshi-16-Ultra) |
-| XMG NEO 16 E25 Intel (XNE16E25) |
+已适配的机型：
+MECHREVO Yaoshi 16 Ultra (X6AR_Mechrevo-Yaoshi-16-Ultra)/XMG NEO 16 E25 Intel (XNE16E25)
 
 ## Disclaimer / 免责声明
 
